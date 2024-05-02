@@ -1,0 +1,7 @@
+---
+include:
+  - path: docker-compose.security.yml
+  
+networks:
+  security-network:
+    driver: bridge
