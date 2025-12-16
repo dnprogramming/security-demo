@@ -29,6 +29,6 @@
     "postcss": "^8",
     "tailwindcss": "^4.1.18",
     "typescript": "~5.9.3",
-    "gts": "^6.0.2"
+    "gts": "^7.0.0"
   }
 }
